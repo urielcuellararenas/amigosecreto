@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es" class"no-js">
 
 <head>
   <meta charset="utf-8">
@@ -93,4 +93,4 @@
     wow = new WOW({}).init();
   </script>
 </body>
-
+</html>
