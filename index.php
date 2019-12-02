@@ -14,7 +14,6 @@
   <link rel="stylesheet" href="css/animate.css">
   <link href="css/animate.min.css" rel="stylesheet">
   <link href="css/style.css" rel="stylesheet" />
-</head>
 
 <body>
 
